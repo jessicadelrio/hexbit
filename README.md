@@ -1,2 +1,3 @@
 hexbit
+Super cool game. 
 ======
